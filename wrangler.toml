@@ -1,0 +1,4 @@
+
+name = "sticker-library8-mcp"
+main = "worker.js"
+compatibility_date = "2026-10-10"
